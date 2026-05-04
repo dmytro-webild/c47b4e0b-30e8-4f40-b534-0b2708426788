@@ -76,7 +76,7 @@ export default function LandingPage() {
         {
           text: "Visit Us",          href: "#contact"},
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/patriotic-cupcakes-with-american-flags-4th-july-celebration_23-2151983684.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/patriotic-cupcakes-with-american-flags-4th-july-celebration_23-2151983684.jpg?_wi=1"
       imageAlt="New York City souvenir shop hero display"
       mediaAnimation="slide-up"
       avatars={[
@@ -123,11 +123,11 @@ export default function LandingPage() {
       useInvertedBackground={false}
       products={[
         {
-          id: "p1",          name: "Iconic Keychain",          price: "$5.99",          variant: "Memorabilia",          imageSrc: "http://img.b2bpic.net/free-photo/small-house-figurines_23-2147737967.jpg"},
+          id: "p1",          name: "Iconic Keychain",          price: "$5.99",          variant: "Memorabilia",          imageSrc: "http://img.b2bpic.net/free-photo/small-house-figurines_23-2147737967.jpg?_wi=1"},
         {
-          id: "p2",          name: "NY Skyline Mug",          price: "$12.50",          variant: "Gifts",          imageSrc: "http://img.b2bpic.net/free-photo/two-white-cups-with-inscription_169016-3273.jpg"},
+          id: "p2",          name: "NY Skyline Mug",          price: "$12.50",          variant: "Gifts",          imageSrc: "http://img.b2bpic.net/free-photo/two-white-cups-with-inscription_169016-3273.jpg?_wi=1"},
         {
-          id: "p3",          name: "Statue of Liberty Figurine",          price: "$19.99",          variant: "NYC Souvenir",          imageSrc: "http://img.b2bpic.net/free-photo/framing-landscape-with-statue-liberty_52683-94792.jpg"},
+          id: "p3",          name: "Statue of Liberty Figurine",          price: "$19.99",          variant: "NYC Souvenir",          imageSrc: "http://img.b2bpic.net/free-photo/framing-landscape-with-statue-liberty_52683-94792.jpg?_wi=1"},
         {
           id: "p4",          name: "Classic Postcards Set",          price: "$8.00",          variant: "Travel Keepsakes",          imageSrc: "http://img.b2bpic.net/free-photo/colorful-spring-postcard-design_23-2151950252.jpg"},
         {
@@ -165,15 +165,15 @@ export default function LandingPage() {
       useInvertedBackground={false}
       testimonials={[
         {
-          id: "t1",          name: "Sarah J.",          date: "Oct 2024",          title: "Great Experience",          quote: "Best gift store I’ve ever visited in New York!",          tag: "Visitor",          avatarSrc: "http://img.b2bpic.net/free-photo/beautiful-woman-taking-break-after-shopping_23-2148660685.jpg",          imageSrc: "http://img.b2bpic.net/free-photo/patriotic-cupcakes-with-american-flags-4th-july-celebration_23-2151983684.jpg",          imageAlt: "happy tourist visitor smiling portrait"},
+          id: "t1",          name: "Sarah J.",          date: "Oct 2024",          title: "Great Experience",          quote: "Best gift store I’ve ever visited in New York!",          tag: "Visitor",          avatarSrc: "http://img.b2bpic.net/free-photo/beautiful-woman-taking-break-after-shopping_23-2148660685.jpg",          imageSrc: "http://img.b2bpic.net/free-photo/patriotic-cupcakes-with-american-flags-4th-july-celebration_23-2151983684.jpg?_wi=2",          imageAlt: "happy tourist visitor smiling portrait"},
         {
           id: "t2",          name: "Mark D.",          date: "Sep 2024",          title: "Highly Recommend",          quote: "Huge selection and great prices. Must visit!",          tag: "Traveler",          avatarSrc: "http://img.b2bpic.net/free-photo/happy-woman-outdoors-medium-shot_23-2148962801.jpg",          imageSrc: "http://img.b2bpic.net/free-photo/outdoor-night-portrait-young-woman-with-shopping-bags_1157-45925.jpg",          imageAlt: "happy tourist visitor smiling portrait"},
         {
-          id: "t3",          name: "Jessica L.",          date: "Aug 2024",          title: "Perfect Souvenirs",          quote: "Excellent customer service, highly recommended.",          tag: "Regular",          avatarSrc: "http://img.b2bpic.net/free-photo/medium-shot-people-having-fun-together_23-2148287907.jpg",          imageSrc: "http://img.b2bpic.net/free-photo/small-house-figurines_23-2147737967.jpg",          imageAlt: "happy tourist visitor smiling portrait"},
+          id: "t3",          name: "Jessica L.",          date: "Aug 2024",          title: "Perfect Souvenirs",          quote: "Excellent customer service, highly recommended.",          tag: "Regular",          avatarSrc: "http://img.b2bpic.net/free-photo/medium-shot-people-having-fun-together_23-2148287907.jpg",          imageSrc: "http://img.b2bpic.net/free-photo/small-house-figurines_23-2147737967.jpg?_wi=2",          imageAlt: "happy tourist visitor smiling portrait"},
         {
-          id: "t4",          name: "David W.",          date: "Jul 2024",          title: "Amazing Staff",          quote: "The staff really helped me pick the best gifts.",          tag: "Tourist",          avatarSrc: "http://img.b2bpic.net/free-photo/gifting-concept-with-three-young-friends_23-2147723664.jpg",          imageSrc: "http://img.b2bpic.net/free-photo/two-white-cups-with-inscription_169016-3273.jpg",          imageAlt: "happy tourist visitor smiling portrait"},
+          id: "t4",          name: "David W.",          date: "Jul 2024",          title: "Amazing Staff",          quote: "The staff really helped me pick the best gifts.",          tag: "Tourist",          avatarSrc: "http://img.b2bpic.net/free-photo/gifting-concept-with-three-young-friends_23-2147723664.jpg",          imageSrc: "http://img.b2bpic.net/free-photo/two-white-cups-with-inscription_169016-3273.jpg?_wi=2",          imageAlt: "happy tourist visitor smiling portrait"},
         {
-          id: "t5",          name: "Linda M.",          date: "Jun 2024",          title: "Five Stars",          quote: "Clean, affordable, and centrally located. Perfect.",          tag: "Visitor",          avatarSrc: "http://img.b2bpic.net/free-photo/medium-shot-smiley-woman-souvenirs-shop_23-2149726224.jpg",          imageSrc: "http://img.b2bpic.net/free-photo/framing-landscape-with-statue-liberty_52683-94792.jpg",          imageAlt: "happy tourist visitor smiling portrait"},
+          id: "t5",          name: "Linda M.",          date: "Jun 2024",          title: "Five Stars",          quote: "Clean, affordable, and centrally located. Perfect.",          tag: "Visitor",          avatarSrc: "http://img.b2bpic.net/free-photo/medium-shot-smiley-woman-souvenirs-shop_23-2149726224.jpg",          imageSrc: "http://img.b2bpic.net/free-photo/framing-landscape-with-statue-liberty_52683-94792.jpg?_wi=2",          imageAlt: "happy tourist visitor smiling portrait"},
       ]}
       title="Loved by Our Visitors"
       description="What our wonderful customers are saying about us."
