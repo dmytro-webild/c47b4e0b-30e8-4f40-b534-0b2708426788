@@ -7,6 +7,7 @@ import { ServiceWrapper } from "@/components/ServiceWrapper";
 import Tag from "@/tag/Tag";
 import { getVisualEditScript } from "@/utils/visual-edit-script";
 import { Montserrat } from "next/font/google";
+import { Public_Sans } from "next/font/google";
 
 
 
@@ -21,8 +22,9 @@ export const metadata: Metadata = {
   },
 };
 
-const montserrat = Montserrat({
-  variable: "--font-montserrat",
+
+const publicSans = Public_Sans({
+  variable: "--font-public-sans",
   subsets: ["latin"],
 });
 const inter = Inter({
@@ -38,7 +40,7 @@ export default function RootLayout({
   return (
     <html lang="en" suppressHydrationWarning>
       <ServiceWrapper>
-        <body className={`${montserrat.variable} ${inter.variable} antialiased`}>
+        <body className={`${publicSans.variable} ${inter.variable} antialiased`}>
           <Tag />
           {children}
           <script
