@@ -128,7 +128,7 @@ export default function LandingPage() {
         {
           id: "p1",          name: "Iconic Keychain",          price: "$.99",          variant: "Memorabilia",          imageSrc: "http://img.b2bpic.net/free-photo/small-house-figurines_23-2147737967.jpg?_wi=1"},
         {
-          id: "p2",          name: "NY Skyline Mug",          price: "$12.50",          variant: "Gifts",          imageSrc: "http://img.b2bpic.net/free-photo/two-white-cups-with-inscription_169016-3273.jpg?_wi=1"},
+          id: "p2",          name: "I LOVE NY MUGS ",          price: "$7.99",          variant: "Gifts",          imageSrc: "http://img.b2bpic.net/free-photo/two-white-cups-with-inscription_169016-3273.jpg?_wi=1"},
         {
           id: "p3",          name: "Statue of Liberty Figurine",          price: "$19.99",          variant: "NYC Souvenir",          imageSrc: "http://img.b2bpic.net/free-photo/framing-landscape-with-statue-liberty_52683-94792.jpg?_wi=1"},
         {
