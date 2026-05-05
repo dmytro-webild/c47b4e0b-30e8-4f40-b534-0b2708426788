@@ -121,6 +121,9 @@ export default function LandingPage() {
       textboxLayout="split"
       gridVariant="four-items-2x2-equal-grid"
       useInvertedBackground={false}
+      buttons={[
+        { text: "View All Souvenirs", href: "#" }
+      ]}
       products={[
         {
           id: "p1",          name: "Iconic Keychain",          price: "$5.99",          variant: "Memorabilia",          imageSrc: "http://img.b2bpic.net/free-photo/small-house-figurines_23-2147737967.jpg?_wi=1"},
