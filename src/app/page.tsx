@@ -126,7 +126,7 @@ export default function LandingPage() {
       ]}
       products={[
         {
-          id: "p1",          name: "Iconic Keychain",          price: "$5.99",          variant: "Memorabilia",          imageSrc: "http://img.b2bpic.net/free-photo/small-house-figurines_23-2147737967.jpg?_wi=1"},
+          id: "p1",          name: "Iconic Keychain",          price: "$.99",          variant: "Memorabilia",          imageSrc: "http://img.b2bpic.net/free-photo/small-house-figurines_23-2147737967.jpg?_wi=1"},
         {
           id: "p2",          name: "NY Skyline Mug",          price: "$12.50",          variant: "Gifts",          imageSrc: "http://img.b2bpic.net/free-photo/two-white-cups-with-inscription_169016-3273.jpg?_wi=1"},
         {
