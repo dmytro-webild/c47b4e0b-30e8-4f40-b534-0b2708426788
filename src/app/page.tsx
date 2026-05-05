@@ -132,7 +132,7 @@ export default function LandingPage() {
         {
           id: "p3",          name: "Statue of Liberty Figurine",          price: "$19.99",          variant: "NYC Souvenir",          imageSrc: "http://img.b2bpic.net/free-photo/framing-landscape-with-statue-liberty_52683-94792.jpg?_wi=1"},
         {
-          id: "p4",          name: "Classic Postcards Set",          price: "$8.00",          variant: "Travel Keepsakes",          imageSrc: "http://img.b2bpic.net/free-photo/colorful-spring-postcard-design_23-2151950252.jpg"},
+          id: "p4",          name: "Classic Postcards ",          price: "$.99",          variant: "Travel Keepsakes",          imageSrc: "http://img.b2bpic.net/free-photo/colorful-spring-postcard-design_23-2151950252.jpg"},
         {
           id: "p5",          name: "NYC Graphic T-Shirt",          price: "$24.99",          variant: "Apparel",          imageSrc: "http://img.b2bpic.net/free-photo/woman-shopping-city_23-2149273769.jpg"},
         {
