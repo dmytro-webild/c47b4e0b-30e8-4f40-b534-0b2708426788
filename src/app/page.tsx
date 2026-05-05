@@ -134,7 +134,7 @@ export default function LandingPage() {
         {
           id: "p4",          name: "Classic Postcards ",          price: "$.99",          variant: "Travel Keepsakes",          imageSrc: "http://img.b2bpic.net/free-photo/colorful-spring-postcard-design_23-2151950252.jpg"},
         {
-          id: "p5",          name: "NYC Graphic T-Shirt",          price: "$24.99",          variant: "Apparel",          imageSrc: "http://img.b2bpic.net/free-photo/woman-shopping-city_23-2149273769.jpg"},
+          id: "p5",          name: "NYC Graphic T-Shirt",          price: "$19.99",          variant: "Apparel",          imageSrc: "http://img.b2bpic.net/free-photo/woman-shopping-city_23-2149273769.jpg"},
         {
           id: "p6",          name: "Broadway Souvenir Mask",          price: "$14.99",          variant: "Custom",          imageSrc: "http://img.b2bpic.net/free-photo/theater-mask-with-dark-background-still-life_23-2150257752.jpg"},
       ]}
